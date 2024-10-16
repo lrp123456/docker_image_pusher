@@ -2,3 +2,4 @@ redis
 mysql
 python
 zookeeper
+nacos/nacos-server
