@@ -3,3 +3,4 @@ mysql
 python
 zookeeper
 nacos/nacos-server
+nginx
